@@ -1,4 +1,4 @@
-# ETF_analyzer
+# ETF Analyzer
 ---
 
 This is an ETF analyzer application which works with SQL databases to practice creating, using, and presenting database information for review.  Thank you for reviewing.
